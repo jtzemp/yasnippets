@@ -1,0 +1,7 @@
+#name : moo do ... end
+#group : definitions
+# key: moo
+# --
+moo do
+  $0
+end
